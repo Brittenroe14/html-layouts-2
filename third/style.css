@@ -1,0 +1,40 @@
+h1 {
+  margin-left: 40px;
+  font-size: 65px;
+  margin-bottom: -20px;
+}
+p {
+  margin-left: 20px;
+  padding: 20px;
+  width: 45%;
+  height: 15vh;
+
+}
+
+.large-space {
+  margin-bottom: 75px;
+}
+img {
+  width: 47%;
+  height: 50vh;
+  float: right;
+  margin-top: -825px;
+  margin-right: 20px;
+  margin-bottom: 10px
+}
+.right-side {
+  float: right;
+  margin-right: 20px;
+  margin-top: -560px;
+  margin-left: 20px;
+  padding: 20px;
+}
+
+.other {
+  float: right;
+  margin-right: 20px;
+  margin-top: -420px;
+  margin-left: 20px;
+  padding: 20px;
+
+}
